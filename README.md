@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @abhishek
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me https://www.linkedin.com/in/abhishekbyanjankar/
+-  Hi, I’m @abhishek
+-  I’m interested in Web Development
+-  How to reach me https://www.linkedin.com/in/abhishekbyanjankar/
 
 
